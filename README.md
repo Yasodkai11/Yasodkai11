@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasod Kavindu</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjEmpummvz_AhWzsWMGHbIJBL4Q2-cCegQIABAA&oq=animated+coding+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgYIABAIEB4yBggAEAgQHjIHCAAQGBCABDIHCAAQGBCABDoECCMQJzoHCCMQ6gIQJzoHCAAQigUQQzoICAAQgAQQsQM6CggAEIoFELEDEEM6BAgAEB5QlA1Y3YoBYIiNAWgBcAB4AIAB6QGIAcEUkgEGNC4xMS40mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=eNCnZMT-LrPjjuMPspOQ8As&bih=714&biw=1536#imgrc=heNSQwKORMWQ6M">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/hacktiv8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasodkai11&label=Profile%20views&color=0e75b6&style=flat" alt="yasodkai11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasodkai11" alt="yasodkai11" /></a> </p>
